@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
