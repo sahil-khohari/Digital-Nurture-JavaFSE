@@ -11,6 +11,7 @@
         <version>3.4.7</version>
     </parent>
 
+
     <groupId>com.cognizant</groupId>
     <artifactId>Ex01_Setting_Up_Spring_Data_JPA</artifactId>
     <version>1.0-SNAPSHOT</version>
