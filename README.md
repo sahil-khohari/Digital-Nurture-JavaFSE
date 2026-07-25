@@ -81,3 +81,17 @@ This repository contains all the mandatory hands-on exercises completed for the 
    mvn clean compile
    ```
 4. Execute via standard IDE runners or by packaging a JAR file and executing it.
+
+---
+
+## Week 5: React
+- [x] Ex01: myfirstreact (SPA Basics)
+- [x] Ex02: studentapp (Class Components)
+- [x] Ex03: scorecalculatorapp (Functional Components & CSS)
+- [x] Ex04: blogapp (Lifecycle Hooks & Fetch API)
+- [x] Ex05: cohortdetails (CSS Modules)
+- [x] Ex09: cricketapp (Conditional Rendering)
+- [x] Ex10: counterapp (State Management)
+- [x] Ex11: eventexamplesapp (Event Handling)
+- [x] Ex12: ticketbookingapp (Complex Conditional Rendering)
+- [x] Ex13: bloggerapp (Multiple Conditional Rendering Techniques)
