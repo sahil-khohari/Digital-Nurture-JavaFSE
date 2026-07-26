@@ -98,7 +98,7 @@ This repository contains all the mandatory hands-on exercises completed for the 
 
 ---
 
-## Week 6: M11 React Advanced
+## Week 6: M11 React Additional
 - [x] Ex06_Trainerapp: React Router Implementation
 - [x] Ex07_Shoppingapp: React Props and Component Composition
 - [x] Ex08_Counterapp: React Component State Management
