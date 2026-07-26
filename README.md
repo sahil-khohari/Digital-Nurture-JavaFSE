@@ -95,3 +95,15 @@ This repository contains all the mandatory hands-on exercises completed for the 
 - [x] Ex11: eventexamplesapp (Event Handling)
 - [x] Ex12: ticketbookingapp (Complex Conditional Rendering)
 - [x] Ex13: bloggerapp (Multiple Conditional Rendering Techniques)
+
+---
+
+## Week 6: M11 React Advanced
+- [x] Ex06_Trainerapp: React Router Implementation
+- [x] Ex07_Shoppingapp: React Props and Component Composition
+- [x] Ex08_Counterapp: React Component State Management
+- [x] Ex14_Contextapp: Advanced React Context API
+- [x] Ex15_Ticketraisingapp: Controlled Forms & State Binding
+- [x] Ex16_Mailregisterapp: Complex Form Validation
+- [x] Ex17_Fetchuserapp: Asynchronous REST API Fetching (componentDidMount)
+
